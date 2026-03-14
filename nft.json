@@ -1,8 +1,7 @@
 {
   "name": "Number #0001",
   "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
-  "image": "https://arweave.net/swS5eZNrKGtuu5ebdqotzPny4OBoM4wHneZ_Ld17ZU8?ext=png",
-  "external_url": "https://example.com",
+  "image": "https://github.com/Mackini/web3/blob/94d996c0ff0fb0a4b0a1eba325f67da99fddd99a/CorruptKittenzCoinz.gif",
   "attributes": [
     {
       "trait_type": "trait1",
@@ -16,8 +15,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://arweave.net/swS5eZNrKGtuu5ebdqotzPny4OBoM4wHneZ_Ld17ZU8?ext=png",
-        "type": "image/png"
+        "uri": "https://github.com/Mackini/web3/blob/94d996c0ff0fb0a4b0a1eba325f67da99fddd99a/CorruptKittenzCoinz.gif",
+        "type": "image/gif"
       },
     ],
     "category": "image"
