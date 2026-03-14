@@ -1,7 +1,7 @@
 {
-  "name": "Number #0001",
+  "name": "Number #0002",
   "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
-  "image": "https://github.com/Mackini/web3/blob/94d996c0ff0fb0a4b0a1eba325f67da99fddd99a/CorruptKittenzCoinz.gif",
+  "image": "https://github.com/Mackini/web3/blob/737958a1faeef027b66d6d3d41d9ce7fa3baf5be/Collection.png",
   "attributes": [
     {
       "trait_type": "trait1",
@@ -15,8 +15,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/Mackini/web3/blob/94d996c0ff0fb0a4b0a1eba325f67da99fddd99a/CorruptKittenzCoinz.gif",
-        "type": "image/gif"
+        "uri": "https://github.com/Mackini/web3/blob/737958a1faeef027b66d6d3d41d9ce7fa3baf5be/Collection.png",
+        "type": "image/png"
       },
     ],
     "category": "image"
