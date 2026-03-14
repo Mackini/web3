@@ -1,0 +1,14 @@
+{
+    "name": "SOL Tour",
+    "description": "description",
+    "image": "https://shdw-drive.genesysgo.net/C5hEPRFFabjGyoJJUs7rCFNrf26opzTJbrGZrkKbgw56/Kittenz.gif",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://shdw-drive.genesysgo.net/C5hEPRFFabjGyoJJUs7rCFNrf26opzTJbrGZrkKbgw56/Kittenz.gif",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+    }
+  }
